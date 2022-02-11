@@ -1,0 +1,18 @@
+[
+    {
+        "name": "Hospice of SLO Doula Tracker",
+        "timeline": "Jan 2021 - June 2021",
+        "desc": "A webapp for doulas (hospice volunteers), allowing them to sign up for shifts and send messages to other doulas.\n Administrators could view contact information for all volunteers, create/edit care events and export overall volunteer data.",
+        "skills": "Application built using React, Node.js, Google Firebase, and Redux",
+        "contributions": "I was a software developer on this team and worked on both the front and back end. I built custom components, performed CRUD operations in our Firestore database, manipulated frontend data and helped implement Redux into the project.",
+        "gitLink": "https://github.com/hack4impact-calpoly/hospice-of-slo"
+    },
+    {
+        "name": "Land Conservancy SLO Volunteer Tracker",
+        "timeline": "Jan 2022 - Present",
+        "desc": "A webapp where volunteers can log worked hours and track progress over time. Volunteers will be able to select events they participated in and track their time. Progress over certain intervals will be tracked on user accounts as well.",
+        "skills": "Application built using React, Node.js, MongoDB (Atlas) and AWS",
+        "contributions": "I am a software developer on this team. I have written frontend authentication and I'm currently implementing backend connections.",
+        "gitLink": "https://github.com/hack4impact-calpoly/the-land-conservancy"
+    }
+]
