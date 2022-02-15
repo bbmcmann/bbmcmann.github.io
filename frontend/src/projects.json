@@ -14,5 +14,13 @@
         "skills": "Application built using React, Node.js, MongoDB (Atlas) and AWS",
         "contributions": "I am a software developer on this team. I have written frontend authentication and I'm currently implementing backend connections.",
         "gitLink": "https://github.com/hack4impact-calpoly/the-land-conservancy"
+    },
+    {
+        "name": "This site :)",
+        "timeline": "Jan 2022 - Present",
+        "desc": "A basic webapp to keep track of my past projects and pick up some new skills",
+        "skills": "A basic React App",
+        "contributions": "",
+        "gitLink": "https://github.com/bbmcmann/bbmcmann.github.io"
     }
 ]

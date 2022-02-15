@@ -11,10 +11,20 @@ const StyledTitle = styled.p`
     color: white;
 `;
 
+const StyledP = styled.p`
+    color: white;
+    font-size: 15px;
+    margin-bottom: 30px;
+`;
+
 function Eleven(){
 
     return (
-        <StyledTitle>11</StyledTitle>
+        <StyledMain>
+            <StyledTitle>11</StyledTitle>
+            <StyledP>nothing here ;)</StyledP>
+        </StyledMain>
+        
     );
 };
 
